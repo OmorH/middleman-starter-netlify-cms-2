@@ -15,7 +15,8 @@
     @extend %col-xs-8;
     margin: 0;
     padding-top: 20%;
-
+    color: red;
+    
     @media screen and (max-width: $screen-md-max){
       padding-top: 15%;
     }
